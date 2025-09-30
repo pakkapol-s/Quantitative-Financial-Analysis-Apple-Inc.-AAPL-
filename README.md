@@ -82,6 +82,17 @@ Based on the quantitative analysis of Apple's financial health, structure, and s
 
 # 5. Data Visualisations
 
+## 1. Profitability Trend Chart
+![Profitability Trend Chart](visualisations/profitablility_margin.png)
+
+## 2. Equity Decline vs. ROE Surge
+![Equity Decline vs. ROE Surge](visualisations/ROE_inverse_relationship.png)
+
+## 3. Liquidity and Free Cash Flow
+![Liquidity and Free Cash Flow](visualisations/CR_VS_FCF.png)
+
+## 4. Quarterly Trends and Business Model Shift
+![Quarterly Trends and Business Model Shift](visualisations/quarterly_revenue_mix.png)
 
 
 # 6. Challenges Faced and Solutions

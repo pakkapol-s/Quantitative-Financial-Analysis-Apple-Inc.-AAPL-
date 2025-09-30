@@ -80,7 +80,11 @@ Based on the quantitative analysis of Apple's financial health, structure, and s
 
 - Maintain Liquidity Posture: Apple's intentionally low Current Ratio (hovering around 1.10) should not be viewed as a risk. It is a calculated strategy to minimize non-working assets. The company's massive FCF pipeline provides sufficient, reliable short-term liquidity, justifying this efficient, debt-leveraged approach.
 
-# 5. Challenges Faced and Solutions
+# 5. Data Visualisations
+
+
+
+# 6. Challenges Faced and Solutions
 
 ## 1. Data Compatibility and Schema Normalization
 

@@ -61,7 +61,7 @@ The analysis reveals that Apple's financial narrative is defined by a successful
 
 - Tight Liquidity Management: Apple intentionally runs a tight liquidity profile. The Current Ratio mostly hovers around 1.10 to 1.30, which is low for a company of its size but reflects a deliberate strategy to minimize idle cash and ensure assets are working as hard as possible.
 
-# 4. Recommendations
+# Recommendations
 Based on the quantitative analysis of Apple's financial health, structure, and strategy, the following recommendations are proposed for investors and strategic analysts:
 
 ## 1. Re-evaluate Valuation Metrics
@@ -80,7 +80,7 @@ Based on the quantitative analysis of Apple's financial health, structure, and s
 
 - Maintain Liquidity Posture: Apple's intentionally low Current Ratio (hovering around 1.10) should not be viewed as a risk. It is a calculated strategy to minimize non-working assets. The company's massive FCF pipeline provides sufficient, reliable short-term liquidity, justifying this efficient, debt-leveraged approach.
 
-# 5. Data Visualisations
+# Data Visualisations
 
 ## 1. Profitability Trend Chart
 ![Profitability Trend Chart](visualisations/profitablility_margin.png)
@@ -95,7 +95,7 @@ Based on the quantitative analysis of Apple's financial health, structure, and s
 ![Quarterly Trends and Business Model Shift](visualisations/quarterly_revenue_mix.png)
 
 
-# 6. Challenges Faced and Solutions
+# Challenges Faced and Solutions
 
 ## 1. Data Compatibility and Schema Normalization
 
@@ -115,7 +115,7 @@ Based on the quantitative analysis of Apple's financial health, structure, and s
 
 - Solution: I leveraged Python's Matplotlib to create dual-axis charts. This technique allowed for the simultaneous plotting of metrics with vastly different scales (e.g., billions of dollars vs. percentage points or ratios), clearly illustrating the cause-and-effect financial relationships to support the key findings.
 
-# 6. Spreadsheet samples
+# Spreadsheet samples
 
 Here are some snapshots of my spreadsheet used in this project. The full spreadsheet can be accessed [here](https://docs.google.com/spreadsheets/d/1bBbz_vUn7sLMHjyvH9wTFusqY_liPMgdXBQ_yj9SZYE/edit?usp=sharing)
 
@@ -124,3 +124,4 @@ Here are some snapshots of my spreadsheet used in this project. The full spreads
 
 2. Data Mapping Stage: illustrating the manual normalization required to align inconsistent line item naming and formatting across various 10-K and 10-Q filings."
 ![inconsistent_form](visualisations/sample_sheet_2.png)
+

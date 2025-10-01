@@ -119,3 +119,7 @@ Based on the quantitative analysis of Apple's financial health, structure, and s
 
 Here are some snapshots of my spreadsheet used in this project. The full spreadsheet can be accessed [here](https://docs.google.com/spreadsheets/d/1bBbz_vUn7sLMHjyvH9wTFusqY_liPMgdXBQ_yj9SZYE/edit?usp=sharing)
 
+1. Sample of the annual ratio calculation sheet
+![sample_sheet_1](visualisations/sample_sheets_1.png)
+
+2. 

@@ -122,4 +122,5 @@ Here are some snapshots of my spreadsheet used in this project. The full spreads
 1. Sample of the annual ratio calculation sheet
 ![sample_sheet_1](visualisations/sample_sheets_1.png)
 
-2. 
+2. Data Mapping Stage: illustrating the manual normalization required to align inconsistent line item naming and formatting across various 10-K and 10-Q filings."
+![inconsistent_form](visualisations/sample_sheet_2.png)

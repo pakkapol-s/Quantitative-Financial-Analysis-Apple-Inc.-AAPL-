@@ -115,3 +115,7 @@ Based on the quantitative analysis of Apple's financial health, structure, and s
 
 - Solution: I leveraged Python's Matplotlib to create dual-axis charts. This technique allowed for the simultaneous plotting of metrics with vastly different scales (e.g., billions of dollars vs. percentage points or ratios), clearly illustrating the cause-and-effect financial relationships to support the key findings.
 
+# Spreadsheet samples
+
+Here are some snapshots of my spreadsheet used in this project. The full spreadsheet can be accessed [here](https://docs.google.com/spreadsheets/d/1bBbz_vUn7sLMHjyvH9wTFusqY_liPMgdXBQ_yj9SZYE/edit?usp=sharing)
+

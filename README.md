@@ -80,19 +80,25 @@ Based on the quantitative analysis of Apple's financial health, structure, and s
 
 - Maintain Liquidity Posture: Apple's intentionally low Current Ratio (hovering around 1.10) should not be viewed as a risk. It is a calculated strategy to minimize non-working assets. The company's massive FCF pipeline provides sufficient, reliable short-term liquidity, justifying this efficient, debt-leveraged approach.
 
-# Data Visualisations
+# Dashboard: Apple Inc. Financial Performance (2014–2024)
 
-## 1. Profitability Trend Chart
-![Profitability Trend Chart](visualisations/profitablility_margin.png)
+This interactive dashboard provides a comprehensive overview of Apple’s financial performance over the past decade, highlighting profitability, growth, liquidity, and revenue composition between products and services.
 
-## 2. Equity Decline vs. ROE Surge
-![Equity Decline vs. ROE Surge](visualisations/ROE_inverse_relationship.png)
+This interactive dashboard provides a comprehensive overview of Apple’s financial performance over the past decade, highlighting profitability, growth, liquidity, and revenue composition between products and services.
+The dashboard features the following components:
+- Key Financial KPIs: Summary cards display Apple’s latest Net Profit Margin, Return on Equity (ROE), Current Ratio, and Free Cash Flow (FCF), offering an at-a-glance view of overall performance.
+- Profitability Trends: A line chart tracks Gross, Operating, and Net Profit Margins over time, showcasing Apple’s efficiency in managing costs and sustaining profits.
+- ROE vs Equity Relationship: A dual-axis chart illustrates the inverse relationship between shareholder equity and ROE, emphasizing how capital structure impacts returns.
+- Liquidity vs Cash Generation: A comparison of Current Ratio and FCF reveals Apple’s ability to balance short-term obligations with strong cash generation.
+- Segment Revenue Growth: A YoY growth chart contrasts Products vs Services, highlighting the increasing role of services in Apple’s revenue mix.
+- Quarterly Revenue Mix: A bar chart breaks down quarterly revenues by Products and Services, with a trendline underscoring the shifting composition of Apple’s income sources.
+- This dashboard enables clear storytelling around Apple’s evolving financial health, investor returns, and strategic pivot toward services.
 
-## 3. Liquidity and Free Cash Flow
-![Liquidity and Free Cash Flow](visualisations/CR_VS_FCF.png)
+1. Dashboard sample
+![alt text](visualisations/Sample_dash_1.png)
 
-## 4. Quarterly Trends and Business Model Shift
-![Quarterly Trends and Business Model Shift](visualisations/quarterly_revenue_mix.png)
+2. Dashboard sample displayed as filtered data
+![alt text](visualisations/Sample_dash_2.png)
 
 
 # Challenges Faced and Solutions

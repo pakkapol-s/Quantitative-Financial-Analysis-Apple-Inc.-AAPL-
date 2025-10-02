@@ -3,6 +3,8 @@
 # Goal 
 This project uses Python and specialized financial APIs to conduct a comprehensive Quantitative Financial Analysis of Apple Inc.'s (AAPL) performance over a decade (2014-2024). The primary goal is to dissect the company's financial strategy, identify key growth engines (Services), and quantify the impact of its aggressive capital allocation strategy (Share Buybacks) to inform a strategic investment recommendation.
 
+---
+
 # Background
 Apple Inc. has transitioned from a high-growth product company to a mature, high-margin ecosystem company. Understanding this shift requires moving beyond simple revenue growth figures to analyzing financial structure, operational efficiency, and capital deployment.
 
@@ -15,6 +17,8 @@ Capital Strategy: How has the massive share buyback program fundamentally altere
 Growth Drivers: Which segments (Products vs. Services) are driving revenue stability and growth, and how does seasonality impact performance?
 
 By systematically calculating and visualizing core metrics—including ROE Decomposition, Free Cash Flow (FCF) trends, and Common-Size analysis—this project provides a granular, data-driven foundation for assessing Apple's long-term financial health and valuation.
+
+---
 
 # Executive Summary 
 The analysis reveals that Apple's financial narrative is defined by increasing operational efficiency and an aggressive, highly successful capital return strategy.
@@ -36,6 +40,8 @@ The analysis reveals that Apple's financial narrative is defined by increasing o
 - Services Stabilization: Quarterly analysis shows that Services Revenue is the stability engine. Its contribution to total revenue has steadily grown, reaching nearly 30% during non-holiday quarters (e.g., June 2025). This high-margin stream offsets the natural volatility and seasonality of the hardware business.
 
 - Seasonality Risk: Revenue remains highly seasonal, with the December quarter consistently generating massive spikes (e.g., ≈$124B), primarily driven by the iPhone/holiday cycle. This seasonality must be factored into any short-term forecasting.
+
+---
 
 
 # Insights Summary
@@ -61,6 +67,8 @@ The analysis reveals that Apple's financial narrative is defined by a successful
 
 - Tight Liquidity Management: Apple intentionally runs a tight liquidity profile. The Current Ratio mostly hovers around 1.10 to 1.30, which is low for a company of its size but reflects a deliberate strategy to minimize idle cash and ensure assets are working as hard as possible.
 
+---
+
 # Recommendations
 Based on the quantitative analysis of Apple's financial health, structure, and strategy, the following recommendations are proposed for investors and strategic analysts:
 
@@ -79,6 +87,8 @@ Based on the quantitative analysis of Apple's financial health, structure, and s
 ## 3. Strategic Insight on Liquidity
 
 - Maintain Liquidity Posture: Apple's intentionally low Current Ratio (hovering around 1.10) should not be viewed as a risk. It is a calculated strategy to minimize non-working assets. The company's massive FCF pipeline provides sufficient, reliable short-term liquidity, justifying this efficient, debt-leveraged approach.
+
+---
 
 # Dashboard: Apple Inc. Financial Performance (2014–2024)
 
@@ -102,6 +112,7 @@ The full spreadsheet can be accessed [here](https://docs.google.com/spreadsheets
 2. Dashboard sample displayed as filtered data
 ![alt text](visualisations/Sample_dash_2.png)
 
+---
 
 # Challenges Faced and Solutions
 
@@ -123,6 +134,8 @@ The full spreadsheet can be accessed [here](https://docs.google.com/spreadsheets
 
 - Solution: I leveraged Python's Matplotlib to create dual-axis charts. This technique allowed for the simultaneous plotting of metrics with vastly different scales (e.g., billions of dollars vs. percentage points or ratios), clearly illustrating the cause-and-effect financial relationships to support the key findings.
 
+---
+
 # Spreadsheet samples
 
 Here are some snapshots of my spreadsheet used in this project. The full spreadsheet can be accessed [here](https://docs.google.com/spreadsheets/d/1bBbz_vUn7sLMHjyvH9wTFusqY_liPMgdXBQ_yj9SZYE/edit?usp=sharing)
@@ -130,4 +143,19 @@ Here are some snapshots of my spreadsheet used in this project. The full spreads
 1. Sample of the annual ratio calculation sheet
 ![sample_sheet_1](visualisations/sample_sheets_1.png)
 
+2. Data Transformation: Wide-to-Long Pivot. This crucial transformation allows all visualizations to be driven by a single filter (e.g., Year or Segment).
+![sample_sheet_3](visualisations/sample_sheet_3.png)
 
+---
+
+# Technologies Used
+- Python: Core programming language used for scripting and data handling such as data reading, cleaning, preparation before transfer to Google Sheets and  converting from a wide table to a long table.
+- EDGAR Tool/API Script: Automated retrieval of raw financial data (10-K and 10-Q filings) from the SEC EDGAR system.
+- Google Sheets / Microsoft Excel: Primary tool for data normalization, cleaning, creating helper columns, and calculating all financial ratios as well as creation of all final, high-impact visualizations.
+- GitHub: Repository hosting and final presentation of the analysis, data snapshots, and dashboard charts.
+
+---
+
+# Author
+
+Mr. Pakkapol Satthapiti | MSC of Data Science and AI | The University of Liverpool | Feel free to connect!

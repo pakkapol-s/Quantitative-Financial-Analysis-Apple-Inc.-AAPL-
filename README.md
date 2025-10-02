@@ -31,7 +31,7 @@ The analysis reveals that Apple's financial narrative is defined by increasing o
 
 ## 2. Capital Structure and Shareholder Returns
 
-- ROE Inflation via Buybacks: The Return on Equity (ROE) has nearly doubled from the mid-teens to the high $20%$s. This surge is directly attributable to the deliberate reduction of Total Shareholders' Equity (which dropped from a high of ≈$375B to ≈$231B) through massive share buyback programs. This strategy leverages debt to financially engineer an impressive ROE metric.
+- ROE Inflation via Buybacks: The Return on Equity (ROE) has nearly doubled from the mid-teens to the high 20%s. This surge is directly attributable to the deliberate reduction of Total Shareholders' Equity (which dropped from a high of ≈$375B to ≈$231B) through massive share buyback programs. This strategy leverages debt to financially engineer an impressive ROE metric.
 
 - Cash Power: Despite the aggressive buyback program, Apple maintains massive Free Cash Flow (FCF), consistently generating between ≈$50B and ≈$110B annually, validating its capacity to sustain dividends and debt obligations.
 

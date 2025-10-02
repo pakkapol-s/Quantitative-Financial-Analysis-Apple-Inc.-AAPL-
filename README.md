@@ -94,6 +94,8 @@ The dashboard features the following components:
 - Quarterly Revenue Mix: A bar chart breaks down quarterly revenues by Products and Services, with a trendline underscoring the shifting composition of Apple’s income sources.
 - This dashboard enables clear storytelling around Apple’s evolving financial health, investor returns, and strategic pivot toward services.
 
+The full spreadsheet can be accessed [here](https://docs.google.com/spreadsheets/d/1bBbz_vUn7sLMHjyvH9wTFusqY_liPMgdXBQ_yj9SZYE/edit?usp=sharing).
+
 1. Dashboard sample
 ![alt text](visualisations/Sample_dash_1.png)
 
@@ -128,6 +130,4 @@ Here are some snapshots of my spreadsheet used in this project. The full spreads
 1. Sample of the annual ratio calculation sheet
 ![sample_sheet_1](visualisations/sample_sheets_1.png)
 
-2. Data Mapping Stage: illustrating the manual normalization required to align inconsistent line item naming and formatting across various 10-K and 10-Q filings."
-![inconsistent_form](visualisations/sample_sheet_2.png)
 

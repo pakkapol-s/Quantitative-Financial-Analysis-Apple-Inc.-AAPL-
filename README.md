@@ -118,9 +118,9 @@ The full spreadsheet can be accessed [here](https://docs.google.com/spreadsheets
 
 ## 1. Data Compatibility and Schema Normalization
 
-- Challenge: The raw financial data extracted from SEC filings via the Edgar Tool was highly inconsistent. Line items for the same metric (e.g., "Revenue," "Total Revenue," or "Net Sales") varied in naming and position across different annual and quarterly filing formats (10-K, 10-Q) over the 10-year period.
+- Challenge: The raw financial data extracted from SEC filings via the Python script was structurally inconsistent across the 10-year period. This issue went beyond simple naming variations (e.g., "Revenue" vs. "Net Sales"); the entire financial taxonomy—the set of line items and their hierarchical position—changed across different 10-K and 10-Q filings (e.g., segment additions like 'Wearables' or changes in reporting granularity).
 
-- Solution: I addressed this by performing financial data mapping and normalization. Initial Python (Pandas) scripts were developed to consolidate documents, followed by manual reconciliation and XLOOKUP methods in Excel to align disparate historical line items into the four required consistent tables (Annual Ratios, Quarterly Trends, etc.). This established a stable, unified time-series dataset.
+- Solution: I addressed this by developing a multi-step normalization process. Initial Python scripts (using the EDGAR Tool) consolidated the documents, followed by extensive manual reconciliation and mapping within Google Sheets. This involved using lookup functions to align the constantly shifting historical line items into four stable, unified time-series tables, guaranteeing the integrity and comparability of metrics (like Total Revenue and Net Income) across the full period.
 
 ## 2. Handling Sparse Quarterly Segment Data
 
